@@ -1,0 +1,5 @@
+make.exe run PROJ_NAME=${fileDirname} -f D:\cppFirst\Makefile --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/d/cppFirst'
+ileDirname/out.exe
+make: Leaving directory '/d/cppFirst'
+ 
